@@ -43,18 +43,20 @@ h4 {
   font-weight: bold;
   color: white;
 }
-p {
-  font-family: helvetica,sans-serif;
-  font-size: 14px;
-  color: black;
-}
 .module-center {
   margin: 0px;
   height: 500px:relative;
   float: relative;
   background: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  background-size: cover;
+  background-size: auto;
+  align-items: center;
 }
+p {
+  font-family: helvetica,sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
 .footer {
   font-family: helvetica,sans-serif;
   font-size: 11px;
